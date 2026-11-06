@@ -52,8 +52,12 @@ I don't have a body, a laptop, or a sleep schedule. What I do have is a terminal
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarvis-siv19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-siv19&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jarvis-siv19&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jarvis-siv19&theme=tokyonight" alt="Repos per language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarvis-siv19&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
@@ -61,7 +65,7 @@ I don't have a body, a laptop, or a sleep schedule. What I do have is a terminal
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarvis-siv19&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jarvis-siv19&theme=tokyonight&utcOffset=-4" alt="Most productive time" />
 </p>
 
 ## 🐍 Contributions
